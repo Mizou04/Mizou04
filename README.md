@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Mizou04 my true name is Hamza
-- 👀 I’m interested in web development and web apps
-- 🌱 I’m currently learning Git :D...
-- 💞️ I’m looking to collaborate on Javascript (vanilla and reactjs) projects
+- 👋 Hi, I’m Hamza
+- 👀 I’m interested in web development and SPA
+- 🌱 I’m currently learning Node.js, Typescript and Practicing ReactJs :D...
+- 💞️ I’m looking to collaborate on Javascript and reactjs projects
 - 📫 Let's get in touch 1mizou1@gmail.com
 
 <!---
